@@ -1,7 +1,7 @@
 public class DefaultConstructor{
     String AccountHolder;
     double balance;
-    void createAccount() {
+    void createAccount(){
         System.out.println("Account Holder Name: "+ AccountHolder);
         System.out.println("Account Balance: "+ balance);
     }
