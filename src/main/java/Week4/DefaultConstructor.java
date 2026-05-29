@@ -7,7 +7,7 @@ public class DefaultConstructor{
     }
     public static void main(String[] args) {
         DefaultConstructor obj = new DefaultConstructor();
-        System.out.println(" PRIYADHARSHINI M (2024503501) || Week4 Program 1 ");
+        System.out.println(" PRIYADHARSHINI M (2024503501) || Week4 1st program ");
         obj.createAccount();
     }
 }
